@@ -5,13 +5,16 @@
 ¡Bienvenido a mi repositorio! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por crear soluciones web innovadoras. Aquí encontrarás algunos de mis proyectos y trabajos.
 
 ### 🚀 Habilidades
-<img src="{https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465}" />
 
-
+- HTML
 - CSS
 - JavaScript
 - Java
 - Spring Boot
+
+### 📚 IDE's
+- Eclipse
+- Visual Studio Code
 
 ### 🛠️ Tecnologías
 
@@ -27,7 +30,7 @@ Estoy constantemente mejorando mis habilidades y aprendiendo nuevas tecnologías
 
 ### 📂 Proyectos Destacados
 
-1. **Proyecto 1:** [Nombre del Proyecto](enlace_al_proyecto)
+1. **Proyecto 1:** [Proyecto Spring Boot](https://github.com/Haktor23/ActividadDWES_futbol_mysql)
    - Descripción breve del proyecto.
 
 2. **Proyecto 2:** [Nombre del Proyecto](enlace_al_proyecto)
