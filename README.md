@@ -25,7 +25,7 @@
 
 Estoy constantemente mejorando mis habilidades y aprendiendo nuevas tecnologías. Actualmente, me estoy sumergiendo en...
 
-- [ ] React
+- [ ] Angular
 - [ ] Node.js
 
 ### 📂 Proyectos Destacados
