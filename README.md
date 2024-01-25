@@ -5,7 +5,7 @@
 ¡Bienvenido a mi repositorio! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por crear soluciones web innovadoras. Aquí encontrarás algunos de mis proyectos y trabajos.
 
 ### 🚀 Habilidades
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+![image]({https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465})
 
 - CSS
 - JavaScript
