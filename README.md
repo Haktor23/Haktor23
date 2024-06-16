@@ -11,6 +11,7 @@
 - JavaScript
 - Java
 - Spring Boot
+- Angular
 
 ### 📚 IDE's
 - Eclipse
@@ -18,7 +19,7 @@
 
 ### 🛠️ Tecnologías
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, TypeScript
 - Backend: Java, Spring Boot
 
 ### 🌱 Actualmente aprendiendo
