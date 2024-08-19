@@ -46,8 +46,8 @@ Estoy constantemente mejorando mis habilidades y aprendiendo nuevas tecnologías
 
 ¡Hablemos! Puedes encontrarme en:
 
-- [LinkedIn]([(https://www.linkedin.com/in/hector-burgos-mart%C3%AD-39ab182b0/)])
-- [Sitio Web Personal]([(https://hectorbm-portfolio.vercel.app/)])
+- [LinkedIn](https://www.linkedin.com/in/hector-burgos-mart%C3%AD-39ab182b0/)
+- [Sitio Web Personal](https://hectorbm-portfolio.vercel.app/)
 
 ### 📫 Contacto
 
