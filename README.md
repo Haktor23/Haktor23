@@ -38,7 +38,7 @@ Estoy constantemente mejorando mis habilidades y aprendiendo nuevas tecnologías
 1. **Proyecto 1:** [Proyecto Spring Boot](https://github.com/Haktor23/ActividadDWES_futbol_mysql)
    - Proyecto realizado en durante el curso de DAW.
    - 
-1. **Proyecto 2:** [Portafolio personal]([https://github.com/Haktor23/ActividadDWES_futbol_mysql](https://github.com/Haktor23/Portafolio_Personal))
+1. **Proyecto 2:** [Portafolio personal](https://github.com/Haktor23/Portafolio_Personal)
    - Proyecto realizado con React para aprender a la vez que realizaba el proyecto.
 
 
