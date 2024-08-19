@@ -12,14 +12,17 @@
 - Java
 - Spring Boot
 - Angular
+- React
+- Python
 
 ### 📚 IDE's
 - Eclipse
 - Visual Studio Code
+- IntelliJ
 
 ### 🛠️ Tecnologías
 
-- Frontend: HTML, CSS, JavaScript, TypeScript
+- Frontend: HTML, CSS, JavaScript, TypeScript, Angular, React
 - Backend: Java, Spring Boot
 
 ### 🌱 Actualmente aprendiendo
@@ -27,29 +30,25 @@
 Estoy constantemente mejorando mis habilidades y aprendiendo nuevas tecnologías. Actualmente, me estoy sumergiendo en...
 
 - [ ] Angular
+- [ ] React
 - [ ] Node.js
 
 ### 📂 Proyectos Destacados
 
 1. **Proyecto 1:** [Proyecto Spring Boot](https://github.com/Haktor23/ActividadDWES_futbol_mysql)
-   - Descripción breve del proyecto.
+   - Proyecto realizado en durante el curso de DAW.
 
-2. **Proyecto 2:** [Nombre del Proyecto](enlace_al_proyecto)
-   - Descripción breve del proyecto.
 
 ### 🤝 Conéctate conmigo
 
 ¡Hablemos! Puedes encontrarme en:
 
-- [LinkedIn](enlace_a_tu_linkedin)
-- [Twitter](enlace_a_tu_twitter)
-- [Sitio Web Personal](enlace_a_tu_sitio_web)
+- [LinkedIn]([enlace_a_tu_linkedin](https://www.linkedin.com/in/hector-burgos-mart%C3%AD-39ab182b0/))
+- [Sitio Web Personal]([enlace_a_tu_sitio_web](https://hectorbm-portfolio.vercel.app/))
 
 ### 📫 Contacto
 
 ¿Tienes alguna pregunta o sugerencia? ¡No dudes en contactarme!
-
-- ✉️ Correo Electrónico: tu@email.com
 
 ### 🙏 Agradecimientos
 
