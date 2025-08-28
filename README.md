@@ -2,23 +2,30 @@
 
 ## Desarrollador de Aplicaciones Web 💻
 
-¡Bienvenido a mi repositorio! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por crear soluciones web innovadoras. Aquí encontrarás algunos de mis proyectos y trabajos.
+¡Bienvenido a mi repositorio! Soy un titulado en Desarrollo de Aplicaciones Web (DAW) y especialista en IA y Big Data apasionado por crear soluciones Web, IA y Big Data innovadoras. Aquí encontrarás algunos de mis proyectos y trabajos.
 
 ### 🚀 Habilidades
 
-- HTML
-- CSS
+**Lenguajes de programación:**
+- HTML  
+- CSS  
 - JavaScript
-- Java
-- Spring Boot
-- Angular
+- TypeScript  
+- Java  
+- Python  
+
+**Frameworks y librerías:**
+- Spring Boot  
+- Angular  
 - React
-- Python
+- Next
+- Node.js
 
 ### 📚 IDE's
-- Eclipse
-- Visual Studio Code
-- IntelliJ
+- Eclipse  
+- Visual Studio Code  
+- IntelliJ  
+
 
 ### 🛠️ Tecnologías
 
