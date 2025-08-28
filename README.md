@@ -26,19 +26,14 @@
 - Visual Studio Code  
 - IntelliJ  
 
-
-### 🛠️ Tecnologías
-
-- Frontend: HTML, CSS, JavaScript, TypeScript, Angular, React
-- Backend: Java, Spring Boot
-
 ### 🌱 Actualmente aprendiendo
 
 Estoy constantemente mejorando mis habilidades y aprendiendo nuevas tecnologías. Actualmente, me estoy sumergiendo en...
 
-- [ ] Angular
-- [ ] React
 - [ ] Node.js
+- [ ] Python
+- [ ] n8n
+- [ ] Machine Learning
 
 ### 📂 Proyectos Destacados
 
